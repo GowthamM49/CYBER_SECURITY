@@ -63,4 +63,3 @@ if uploaded_file:
     st.subheader("Unathurized Access Attemps")
     for log in unauthorized:
         st.write(log)
-    
